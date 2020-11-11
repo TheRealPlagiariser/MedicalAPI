@@ -1,0 +1,597 @@
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Medical.dll.config
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Medical.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Medical.pdb
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csc.exe
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csc.exe.config
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csc.rsp
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csi.exe
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csi.exe.config
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\csi.rsp
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.AppContext.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Console.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.IO.Compression.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Net.Http.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.ValueTuple.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\vbc.exe
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\vbc.exe.config
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\vbc.rsp
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\VBCSCompiler.exe
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Antlr3.Runtime.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Newtonsoft.Json.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Net.Http.Formatting.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Helpers.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Http.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Http.WebHost.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Mvc.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Optimization.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Razor.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.Razor.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\WebGrease.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Newtonsoft.Json.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Net.Http.Formatting.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Helpers.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Http.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Http.WebHost.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Mvc.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Optimization.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.Razor.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\System.Web.WebPages.Razor.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Antlr3.Runtime.pdb
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.csproj.CopyComplete
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.pdb
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\EntityFramework.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\EntityFramework.SqlServer.dll
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\EntityFramework.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\bin\EntityFramework.SqlServer.xml
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.csprojAssemblyReference.cache
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.Migrations.Initial.resources
+C:\Users\SD Worx\source\repos\Medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.csprojAssemblyReference.cache
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.pdb
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Medical.dll.config
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Medical.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Medical.pdb
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csc.exe
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csc.exe.config
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csc.rsp
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csi.exe
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csi.exe.config
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\csi.rsp
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.AppContext.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Console.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Net.Http.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\vbc.exe
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\vbc.exe.config
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\vbc.rsp
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Antlr3.Runtime.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\EntityFramework.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Newtonsoft.Json.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Net.Http.Formatting.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Helpers.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.WebHost.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Mvc.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Optimization.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Razor.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\WebGrease.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\EntityFramework.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Newtonsoft.Json.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Net.Http.Formatting.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Helpers.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.WebHost.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Mvc.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Optimization.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Razor.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Antlr3.Runtime.pdb
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.csproj.CopyComplete
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Cors.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.Cors.dll
+C:\Users\Ramen Pajani\Desktop\medical\Medical\bin\System.Web.Http.Cors.xml
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.Migrations.initial.resources
+C:\Users\Ramen Pajani\Desktop\medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Medical.dll.config
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Medical.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Medical.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csc.exe
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csc.exe.config
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csc.rsp
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csi.exe
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csi.exe.config
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\csi.rsp
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.AppContext.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Console.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Net.Http.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.ValueTuple.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\vbc.exe
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\vbc.exe.config
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\vbc.rsp
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe
+C:\Users\SD Worx\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Antlr3.Runtime.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\EntityFramework.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\EntityFramework.SqlServer.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Newtonsoft.Json.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Net.Http.Formatting.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Cors.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Helpers.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.Cors.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.WebHost.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Mvc.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Optimization.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Razor.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\WebGrease.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\EntityFramework.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\EntityFramework.SqlServer.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.Cors.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Newtonsoft.Json.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Net.Http.Formatting.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Helpers.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Http.WebHost.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Mvc.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Optimization.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.Razor.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Antlr3.Runtime.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.csprojAssemblyReference.cache
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.csproj.CopyComplete
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.dll
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Autofac.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Lucene.Net.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.AsyncEx.Context.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.AsyncEx.Tasks.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.Disposables.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Collections.Immutable.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Reflection.TypeExtensions.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Controllers.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Core.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Credentials.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Factories.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Logic.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Security.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Streams.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.WebLogic.dll
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Autofac.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Autofac.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Lucene.Net.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Lucene.Net.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.AsyncEx.Context.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.AsyncEx.Tasks.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.Disposables.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Nito.Disposables.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.Collections.Immutable.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Controllers.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Core.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Credentials.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Factories.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Logic.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Security.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.Streams.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\bin\Tweetinvi.WebLogic.pdb
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.Migrations.Initial.resources
+C:\Users\SD Worx\Desktop\medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Medical.dll.config
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Medical.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Medical.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csc.exe
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csc.exe.config
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csc.rsp
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csi.exe
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csi.exe.config
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\csi.rsp
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.AppContext.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Console.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Net.Http.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.ValueTuple.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\vbc.exe
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\vbc.exe.config
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\vbc.rsp
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Antlr3.Runtime.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Autofac.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\EntityFramework.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\EntityFramework.SqlServer.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Lucene.Net.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Newtonsoft.Json.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.AsyncEx.Context.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.AsyncEx.Tasks.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.Disposables.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Collections.Immutable.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Net.Http.Formatting.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Reflection.TypeExtensions.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Cors.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Helpers.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.Cors.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.WebHost.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Mvc.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Optimization.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Razor.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Controllers.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Core.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Credentials.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Factories.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Logic.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Security.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Streams.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.WebLogic.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\WebGrease.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Autofac.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Autofac.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\EntityFramework.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\EntityFramework.SqlServer.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Lucene.Net.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Lucene.Net.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.AsyncEx.Context.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.AsyncEx.Tasks.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.Disposables.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Nito.Disposables.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Collections.Immutable.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.Cors.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Newtonsoft.Json.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Net.Http.Formatting.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Helpers.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Http.WebHost.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Mvc.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Optimization.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.Razor.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\System.Web.WebPages.Razor.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Controllers.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Core.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Credentials.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Factories.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Logic.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Security.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.Streams.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Tweetinvi.WebLogic.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Antlr3.Runtime.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.csprojAssemblyReference.cache
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.Migrations.Initial.resources
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.csproj.CopyComplete
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.dll
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.pdb
+C:\Users\MU_SDWorx\Desktop\medical\Medical\obj\Debug\Medical.Migrations.employeeIDstring.resources
+C:\insurance\medical\Medical\bin\Medical.dll.config
+C:\insurance\medical\Medical\bin\Medical.dll
+C:\insurance\medical\Medical\bin\Medical.pdb
+C:\insurance\medical\Medical\bin\roslyn\csc.exe
+C:\insurance\medical\Medical\bin\roslyn\csc.exe.config
+C:\insurance\medical\Medical\bin\roslyn\csc.rsp
+C:\insurance\medical\Medical\bin\roslyn\csi.exe
+C:\insurance\medical\Medical\bin\roslyn\csi.exe.config
+C:\insurance\medical\Medical\bin\roslyn\csi.rsp
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.Managed.Core.targets
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\insurance\medical\Medical\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\insurance\medical\Medical\bin\roslyn\System.AppContext.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Collections.Immutable.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Console.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Globalization.Calendars.dll
+C:\insurance\medical\Medical\bin\roslyn\System.IO.Compression.dll
+C:\insurance\medical\Medical\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\insurance\medical\Medical\bin\roslyn\System.IO.FileSystem.dll
+C:\insurance\medical\Medical\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Net.Http.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Net.Sockets.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Reflection.Metadata.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\insurance\medical\Medical\bin\roslyn\System.ValueTuple.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Xml.XmlDocument.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Xml.XPath.dll
+C:\insurance\medical\Medical\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\insurance\medical\Medical\bin\roslyn\vbc.exe
+C:\insurance\medical\Medical\bin\roslyn\vbc.exe.config
+C:\insurance\medical\Medical\bin\roslyn\vbc.rsp
+C:\insurance\medical\Medical\bin\roslyn\VBCSCompiler.exe
+C:\insurance\medical\Medical\bin\roslyn\VBCSCompiler.exe.config
+C:\insurance\medical\Medical\bin\Antlr3.Runtime.dll
+C:\insurance\medical\Medical\bin\Autofac.dll
+C:\insurance\medical\Medical\bin\EntityFramework.dll
+C:\insurance\medical\Medical\bin\EntityFramework.SqlServer.dll
+C:\insurance\medical\Medical\bin\ICSharpCode.SharpZipLib.dll
+C:\insurance\medical\Medical\bin\Lucene.Net.dll
+C:\insurance\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.Logging.dll
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.Tokens.dll
+C:\insurance\medical\Medical\bin\Microsoft.Web.Infrastructure.dll
+C:\insurance\medical\Medical\bin\Newtonsoft.Json.dll
+C:\insurance\medical\Medical\bin\Nito.AsyncEx.Context.dll
+C:\insurance\medical\Medical\bin\Nito.AsyncEx.Tasks.dll
+C:\insurance\medical\Medical\bin\Nito.Disposables.dll
+C:\insurance\medical\Medical\bin\System.Collections.Immutable.dll
+C:\insurance\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\insurance\medical\Medical\bin\System.Net.Http.Formatting.dll
+C:\insurance\medical\Medical\bin\System.Reflection.TypeExtensions.dll
+C:\insurance\medical\Medical\bin\System.Web.Cors.dll
+C:\insurance\medical\Medical\bin\System.Web.Helpers.dll
+C:\insurance\medical\Medical\bin\System.Web.Http.Cors.dll
+C:\insurance\medical\Medical\bin\System.Web.Http.dll
+C:\insurance\medical\Medical\bin\System.Web.Http.WebHost.dll
+C:\insurance\medical\Medical\bin\System.Web.Mvc.dll
+C:\insurance\medical\Medical\bin\System.Web.Optimization.dll
+C:\insurance\medical\Medical\bin\System.Web.Razor.dll
+C:\insurance\medical\Medical\bin\System.Web.WebPages.Deployment.dll
+C:\insurance\medical\Medical\bin\System.Web.WebPages.dll
+C:\insurance\medical\Medical\bin\System.Web.WebPages.Razor.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Controllers.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Core.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Credentials.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Factories.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Logic.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Security.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.Streams.dll
+C:\insurance\medical\Medical\bin\Tweetinvi.WebLogic.dll
+C:\insurance\medical\Medical\bin\WebGrease.dll
+C:\insurance\medical\Medical\bin\Autofac.pdb
+C:\insurance\medical\Medical\bin\Autofac.xml
+C:\insurance\medical\Medical\bin\EntityFramework.xml
+C:\insurance\medical\Medical\bin\EntityFramework.SqlServer.xml
+C:\insurance\medical\Medical\bin\Lucene.Net.pdb
+C:\insurance\medical\Medical\bin\Lucene.Net.xml
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.Logging.xml
+C:\insurance\medical\Medical\bin\Microsoft.IdentityModel.Tokens.xml
+C:\insurance\medical\Medical\bin\Nito.AsyncEx.Context.xml
+C:\insurance\medical\Medical\bin\Nito.AsyncEx.Tasks.xml
+C:\insurance\medical\Medical\bin\Nito.Disposables.pdb
+C:\insurance\medical\Medical\bin\Nito.Disposables.xml
+C:\insurance\medical\Medical\bin\System.Collections.Immutable.xml
+C:\insurance\medical\Medical\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\insurance\medical\Medical\bin\System.Web.Http.Cors.xml
+C:\insurance\medical\Medical\bin\Newtonsoft.Json.xml
+C:\insurance\medical\Medical\bin\System.Net.Http.Formatting.xml
+C:\insurance\medical\Medical\bin\System.Web.Helpers.xml
+C:\insurance\medical\Medical\bin\System.Web.Http.xml
+C:\insurance\medical\Medical\bin\System.Web.Http.WebHost.xml
+C:\insurance\medical\Medical\bin\System.Web.Mvc.xml
+C:\insurance\medical\Medical\bin\System.Web.Optimization.xml
+C:\insurance\medical\Medical\bin\System.Web.Razor.xml
+C:\insurance\medical\Medical\bin\System.Web.WebPages.xml
+C:\insurance\medical\Medical\bin\System.Web.WebPages.Deployment.xml
+C:\insurance\medical\Medical\bin\System.Web.WebPages.Razor.xml
+C:\insurance\medical\Medical\bin\Tweetinvi.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Controllers.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Core.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Credentials.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Factories.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Logic.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Security.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.Streams.pdb
+C:\insurance\medical\Medical\bin\Tweetinvi.WebLogic.pdb
+C:\insurance\medical\Medical\bin\Antlr3.Runtime.pdb
+C:\insurance\medical\Medical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\insurance\medical\Medical\obj\Debug\Medical.Migrations.Initial.resources
+C:\insurance\medical\Medical\obj\Debug\Medical.Migrations.employeeIDstring.resources
+C:\insurance\medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
+C:\insurance\medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
+C:\insurance\medical\Medical\obj\Debug\Medical.csproj.CopyComplete
+C:\insurance\medical\Medical\obj\Debug\Medical.dll
+C:\insurance\medical\Medical\obj\Debug\Medical.pdb
